@@ -1,0 +1,37 @@
+.Quine
+{
+    border: 1px solid rgb(204, 1, 126);
+    width: 500px;
+    height: 600px;
+    box-shadow: 0px -2px 1px rgb(14, 13, 13) ;
+}
+.Header
+{
+    font-style: italic;
+    text-align: center ;
+    color: brown;
+    text-shadow: 0px -1px 5px;
+}
+.hihi
+{
+    color: blue;
+}
+.Startersne{
+    padding-left: 40px;
+   
+}
+#Starters,#Desserts
+{
+    color: rgb(221, 49, 6);
+    background-color: rgb(78, 206, 52);
+}
+ins{
+    color: rgb(250, 104, 7);
+    font-weight: bold;
+}
+.emiu{
+    color: rgb(248, 30, 201);
+}
+.backtotop{
+    color: rgb(218, 28, 43);
+}
